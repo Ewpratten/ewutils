@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='ewutils',
-    version='1.0rc1',
+    version='1.0rc2',
     description='A collection of tools and utilities that I put together to make programming a little easier',
     url='https://github.com/Ewpratten/ewutils',
     author='Evan Pratten',
